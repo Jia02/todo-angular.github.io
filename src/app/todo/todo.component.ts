@@ -11,7 +11,7 @@ import { ITask } from '../model/task';
 export class TodoComponent implements OnInit{
 
   todoForm !: FormGroup;
-  tasks : ITask [] = [];
+  tasks : ITask [] = []; 
   inprogress : ITask [] = [];
   done : ITask [] = [];
   updateIndex !: any;

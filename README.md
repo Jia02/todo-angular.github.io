@@ -8,4 +8,5 @@ This app offers **CUD operations** which allows user to create a list, update a 
 Run `ng serve --port 4100` for a dev server. Navigate to `http://localhost:4100/`. The application will automatically reload if there is any change to the source files.
 
 ## Preview of the Application 
-![A sceenhshoot of the app](./assets/app1.png)
+![A sceenhshoot of the app](./assets/app01.png)
+ 
